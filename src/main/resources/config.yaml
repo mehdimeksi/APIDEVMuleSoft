@@ -1,0 +1,11 @@
+http:
+  port: "8081"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"  
+file:
+  accountDir: "C:/Users/mehdi.meksi/OneDrive - Keyrus/Bureau/MuleSoft Training/APDevFundamentals4.4_studentFiles_SP_27jun2022/resources"
